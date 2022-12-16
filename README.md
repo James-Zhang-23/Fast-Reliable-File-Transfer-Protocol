@@ -1,2 +1,2 @@
-# Custum-Reliable-File-Transfer-Protocol
-Custom Reliable File Transfer Protocol over UDP
+# Custum-Fast-Reliable-File-Transfer-Protocol
+Custom Fast Reliable File Transfer Protocol over UDP
